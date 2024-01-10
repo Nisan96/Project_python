@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b217964-b04e-4ab7-8e5b-e7bb6f96a6b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/short_project/email_validate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_project/email_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_project/email_validation_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_project/file_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_project/name_validate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_project/phone_validate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_project/read.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/short_project/file/read.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/short_project/email_validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/short_project/email_validate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/short_project/email_validation_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/short_project/email_validation_import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/short_project/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/short_project/file_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/short_project/name_validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/short_project/name_validate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/short_project/phone_validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/short_project/phone_validate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/short_project/read.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +38,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.email_validate.executor": "Run",
-    "Python.email_validation.executor": "Run",
-    "Python.email_validation_import.executor": "Run",
-    "Python.file_read.executor": "Run",
-    "Python.name_validate.executor": "Run",
-    "Python.phone_validate.executor": "Run",
-    "Python.sale_disc.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.email_validate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.email_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.email_validation_import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.name_validate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.phone_validate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sale_disc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.phone_validate">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\python_projects\Project_python\short_project\file" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.email_validation_import">
+    <configuration name="email_validation_import" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/short_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/short_project/email_validation_import.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/short_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/short_project/file_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="name_validate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_python" />
       <option name="ENV_FILES" value="" />
@@ -101,8 +147,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.phone_validate" />
+        <item itemvalue="Python.email_validation_import" />
+        <item itemvalue="Python.file_read" />
         <item itemvalue="Python.name_validate" />
+        <item itemvalue="Python.phone_validate" />
       </list>
     </recent_temporary>
   </component>

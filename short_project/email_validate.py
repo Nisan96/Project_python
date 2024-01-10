@@ -1,4 +1,4 @@
-with open('read.txt','r') as f:
+with open('file/read.txt', 'r') as f:
     content = f.readlines()
     print(content[3])
     c = 0
